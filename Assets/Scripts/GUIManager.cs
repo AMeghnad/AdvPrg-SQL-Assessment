@@ -20,6 +20,11 @@ public class GUIManager : MonoBehaviour
 
     }
 
+    void OnGUI()
+    {
+
+    }
+
     void Login()
     {
 
